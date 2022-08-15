@@ -1,7 +1,7 @@
 ## i dunno man rly
 
 
-# next.js template that uses tailwindcss and framer motion. files kept on a minimum
+# next.js--typescript template that uses tailwindcss and framer motion. files kept on a minimum
 
 
 ```bash
