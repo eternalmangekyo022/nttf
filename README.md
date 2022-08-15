@@ -8,7 +8,7 @@
 git init
 git pull https://github.com/eternalmangekyo022/nttf.git
 cd nttf
-yarn dev OR npm start dev
+yarn dev || npm start dev
 ```
 
 happy hacking lol 
