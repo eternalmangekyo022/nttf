@@ -8,4 +8,4 @@ cd nttf
 yarn dev || npm start dev
 ```
 
-happy hacking lol 
+happy hacking
