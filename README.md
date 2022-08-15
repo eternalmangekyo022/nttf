@@ -1,6 +1,3 @@
-## i dunno man rly
-
-
 # next.js + typescript + tailwindcss + framer motion. files kept on a minimum
 
 
